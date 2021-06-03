@@ -1,7 +1,7 @@
 //https://editor.p5js.org/kkhandelwal51/sketches/1OalWc9Mb
 //https://youtu.be/GTWrWM1UsnA
 //Tic Tac Toe Game Using HTML5, CSS3, JS
-//p5.js library and basic Javascript was used
+//p5.js library and Javascript was used
 
 let board = [
   ['', '', ''],
